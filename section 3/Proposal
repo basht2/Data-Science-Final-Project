@@ -1,0 +1,7 @@
+Section 3 – Data analysis plan
+The target variable is to predict salary. The independent variables are Batting Average, On Base Percentage, Home Runs, Runs Batted In, Slugging Percentage, On Base + Slugging Percentage, Stolen Bases, Innings Played, Plate Appearances, Strikeout Percentage, Walk Percentage, Position Played, and Defensive Runs Saved
+
+We made many graphs to compare one individual at a time to salary. After examining each of the graphs, it looks as if Batting Average and Home Runs are most commonly paired with a high salary. We will be looking at linear regressions and viewing the R-squared value for each graph. This will show us the strength of the correlation between the variables. We will also be using summary statistics in R to build a model. We could do a linear model, but we will test to see what kind of model will be the best for our data. We would expect home runs and batting average to be the best predictors of salary, but we also want to build a model for future use. We would like to plug in a player's stats before they file for arbitration to see if we can accurately predict their salary. We could also see if players are underpaid or overpaid.
+
+A couple of notes:
+We had a hard time importing the excel file into GitHub, so we copied and pasted all the cells into the text box. Also, we will include the graphs we used for EDA later.
