@@ -8,6 +8,7 @@ May 4, 2021
  Summary of Findings
 
 The goal of this study was to find the most influential variables and baseball statistics when trying to predict a MLB players' first year arbitration salary. After conducting multi linear regression tests and analyzing the p-values, R values, R-Squared values, and the equations of the lines of best fit, we were able to get a good idea of which variables impact salary the most. The variables that were statistically significant and had a p-value lower than .05 were:
+
 Batting Average (BA) (pval: 2.91674*10^(-6))
 
 On base % (OBP) (pval: 2.65889*10^(-7))
