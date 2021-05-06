@@ -1,6 +1,9 @@
 Tom Bash and Conor Keating
+
 Methods of Data Science
+
 Dr. Dumnich
+
 May 4, 2021
  Summary of Findings
 
